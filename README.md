@@ -16,6 +16,6 @@ This is my very first project in which i have made a Web Server using ESP8266 No
 - Arduino IDE
 - Basic HTML + CSS
 <div style="display: flex; gap: 20px;">
-  <img src="Images/ON.jpg" width="350"/>
+  <img src="Images/ON.jpg" width="370"/>
   <img src="Images/OFF.jpg" width="350"/>
 </div>
